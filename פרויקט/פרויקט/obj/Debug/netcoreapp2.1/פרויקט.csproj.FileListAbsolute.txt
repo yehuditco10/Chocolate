@@ -1,0 +1,28 @@
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.deps.json
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.runtimeconfig.json
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.runtimeconfig.dev.json
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.dll
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.pdb
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.csprojAssemblyReference.cache
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.csproj.CoreCompileInputs.cache
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.RazorAssemblyInfo.cache
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.RazorAssemblyInfo.cs
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.AssemblyInfoInputs.cache
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.AssemblyInfo.cs
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.RazorTargetAssemblyInfo.cache
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.dll
+X:\gruop 1\כהן תמי\פרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.pdb
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.deps.json
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.runtimeconfig.json
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.runtimeconfig.dev.json
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.dll
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\bin\Debug\netcoreapp2.1\פרויקט.pdb
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.csproj.CoreCompileInputs.cache
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.RazorAssemblyInfo.cache
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.RazorAssemblyInfo.cs
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.AssemblyInfoInputs.cache
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.AssemblyInfo.cs
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.RazorTargetAssemblyInfo.cache
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.dll
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.pdb
+D:\מסמכים\תמי\תכנות\לפרויקט\פרויקט\פרויקט\obj\Debug\netcoreapp2.1\פרויקט.csprojAssemblyReference.cache

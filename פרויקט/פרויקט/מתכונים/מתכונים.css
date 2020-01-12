@@ -1,0 +1,75 @@
+﻿body {
+    width:100vw;
+    height:100vh;
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.m_respect {
+    direction: rtl;
+    width: 58vw;
+    /*float: right;*/
+    margin-right: 10vw;
+    margin-top: 2vw;
+}
+.m_picture {
+    width: 40vw;
+    height: 40vh;
+    margin-right: 16vw;
+}
+.h3_more {
+    margin-right: 1vw;
+    margin-top: 5vh;
+}
+.heart {
+    margin-top: 1vh;
+    width: 3vw;
+}
+/*.m_side1 {
+    float: right;
+    background-color: #8c4f23;
+    width: 15vw;
+    height: 280vh;
+}
+.m_side2 {
+    width: 15vw;
+    height: 280vh;
+    float: right;
+    background-color: #8c4f23;
+}
+.adv1 {
+    width: 25vh;
+    margin-right: 1vw;
+    margin-top: 2vh;
+}
+.adv2 {
+    width: 25vh;
+    margin-right: 1vw;
+    margin-top: 2vh;
+}
+.adv3 {
+    width: 25vh;
+    margin-right: 1vw;
+    margin-top: 2vh;
+}
+.adv4 {
+    width: 25vh;
+    margin-right: 1vw;
+    margin-top: 2vh;
+}
+.new {
+    width: 25vh;
+    margin-right: 1vw;
+    margin-top: 2vh;
+}
+.p_new {
+    width: 20vh;
+    margin-right: 1vw;
+}*/
+.div_m {
+    float: right;
+}
+.relative {
+    width: 30vw;
+    margin: 1vw;
+    float:right;
+}
