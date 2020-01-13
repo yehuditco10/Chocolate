@@ -1,0 +1,124 @@
+﻿
+body, h1, h2, h3, h4, h5, h6 {
+    font-family:FbLapid;
+     text-decoration:none;
+}
+p {
+    font-family:FbFormula;
+}
+
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+    background-image: url('../pictures/2673838.jpg');
+    /*background-image: url('../javascript/img/פרסומת ראשונה חדש.jpg');*/
+    min-height: 100%;
+}
+
+/* Second image (Portfolio) */
+.bgimg-2 {
+    background-image: url('../pictures/3343761.jpg');
+    /*background-image: url('../javascript/img/פרסומת חדשה03-Recovered.jpg');*/
+    /*background-image: url('../javascript/img/פרסומת חדשה02-Recovered.jpg');*/
+    min-height: 400px;
+}
+
+/* Third image (Contact) */
+.bgimg-3 {
+    background-image: url('../pictures/2448035.jpg');
+    /*background-image: url('../javascript/img/פרסומת חדשה03-Recovered.jpg');*/
+    /*background-image: url('../javascript/img/פרסומת חדשה02-Recovered.jpg');*/
+    min-height: 400px;
+}
+
+.w3-wide {
+    letter-spacing: 10px;
+}
+
+.w3-hover-opacity {
+    cursor: pointer;
+}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+
+.w3-bar .w3-bar-item {
+    padding: 8px 16px;
+    font-family:FbFormula;
+    width: auto;
+    border: none;
+    display: block;
+    outline: 0;
+    float: right;
+  
+}
+.w3-bar .w3-bar-item:hover{
+     background-color:#c00450;
+}
+#logoMenu{
+    float:right;
+}
+.icon{
+    width:3vw;
+    height:3vw;
+}
+#contact
+/*---------------------------------כפתורים נפתחים מ"בית"*/
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+ropbtn {background-color: #3e8e41;}
+a:hover {
+    text-decoration:none;
+}
+a {
+    color:wi
+}
